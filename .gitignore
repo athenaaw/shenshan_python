@@ -1,0 +1,10 @@
+venv/
+build/
+.eggs/
+.pytest_cache/
+.vscode/
+.coverage
+*pycache*
+setup.python
+environment.yaml
+setup.py
